@@ -224,6 +224,11 @@ These are all functional requirements in this section.
 
     - agent should be able to take place of 1 or more players
 
+    - It should be able to play the game to the extant a player would.
+
+    - It does not need to be any good at it at first (could be random at first) if time permits make it more complex.
+        - the marking scheme places emphasis on a working agent! 
+
 - A means of uploading initial data:
 
     - A method to initialise data on the board layout
