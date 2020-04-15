@@ -2,16 +2,18 @@
 
 We will have to break down the requirements into three types:
 
-- functional requirements (needed for functionality)
+- functional requirements (Requirements needed to be carried out in order to build your system)
 
 - non-functional requirements (non-essiential but would be nice)
 
-- domain requirements (requirements in terms of the market/genre)
+- domain requirements (A requirement that can improve the product within its sector. e.g. monopoly's domain is gaming.)
 
 
 ## User Stories and task Cards:
 
 Note: The numbers represent the user stories (requirements). The bullet points below are the task cards it has been split up into.
+
+These are all functional requirements in this section.
 
 ---
 
