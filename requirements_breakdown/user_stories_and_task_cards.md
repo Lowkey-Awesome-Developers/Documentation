@@ -52,7 +52,7 @@ These are all functional requirements in this section.
 4. For each turn, the player rolls the two dice. They move the number of spaces shown on the dice and arrive at a board space. Players move clockwise around the board.
 
     - each turn, the player rolls two dice.
-        - move the player the total of the two die around the board (clockwise)
+        - move the player the total of the two dice around the board (clockwise)
 
 ---
 
